@@ -1,4 +1,4 @@
-package com.elugo.spring_boot.java_22;
+package com.elugo.springboot.java22;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

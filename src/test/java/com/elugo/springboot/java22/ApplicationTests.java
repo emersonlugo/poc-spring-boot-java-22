@@ -1,10 +1,10 @@
-package com.elugo.spring_boot.java_22;
+package com.elugo.springboot.java22;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJava22ApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
